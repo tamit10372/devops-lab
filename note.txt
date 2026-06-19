@@ -1,4 +1,3 @@
 Day 1 Linux basic
 I Am learning Devops
 Git is tracking this file
-Bad production config
